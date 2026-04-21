@@ -1,6 +1,6 @@
 # Pietro Gelmini
 
-**BSc Student in Engineering @ University of Trento**
+**BSc Student in Computer, Communications and Electronic Engineering @ University of Trento**
 
 ### 🛠 Technical Stack
 - **Languages:** C++, Python, Java, Javascript
