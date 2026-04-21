@@ -1,16 +1,15 @@
-## Hi there 👋
+# Pietro Gelmini
 
-<!--
-**Gelminaio/Gelminaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc Student in Engineering @ University of Trento**
 
-Here are some ideas to get you started:
+### 🛠 Technical Stack
+- **Languages:** C++, Python, Java, Javascript
+- **Frameworks & Tools:** ROS 2, Linux (Ubuntu), Git
+- **Core Interests:** Sensor Fusion, Embedded Systems, Computer Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Current Focus
+- Development of ROS 2 nodes for Sensor Fusion (LiDAR & GPS integration).
+- Low-level hardware-software interfacing.
+
+---
+[LinkedIn Profile](https://www.linkedin.com/in/pietro-gelmini-328a52328)
