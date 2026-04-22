@@ -17,10 +17,9 @@ Currently focusing on **ROS 2** for autonomous driving and exploring efficient s
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gelminaio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pietro's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelminaio&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gelminaio&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" alt="Pietro's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelminaio&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🔗 Connect with me
