@@ -21,6 +21,12 @@ Currently focusing on **ROS 2** for autonomous driving and exploring efficient s
   <img src="https://github-readme-stats-beta-three-92.vercel.app/api/top-langs/?username=Gelminaio&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-beta-three-92.vercel.app/api?username=smedoiuandrei&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Andrei's Stats" />
+  <img src="https://github-readme-stats-beta-three-92.vercel.app/api/top-langs/?username=smedoiuandrei&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+
 ---
 
 ### 🔗 Connect with me
