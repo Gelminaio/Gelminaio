@@ -1,7 +1,7 @@
 # Pietro Gelmini
 
 ### Computer, Communications and Electronic Engineering Student @ UniTN
-Currently focusing on **ROS 2** for autonomous driving and exploring efficient software architectures.
+Currently focusing on **ROS 2** for autonomous drifting and exploring efficient software architectures.
 
 ---
 
