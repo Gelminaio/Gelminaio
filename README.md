@@ -25,6 +25,3 @@ Currently focusing on **ROS 2** for autonomous drifting and exploring efficient 
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-gelmini)
-
----
-*“Simplicity is the soul of efficiency.”*
