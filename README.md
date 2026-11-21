@@ -23,7 +23,7 @@ Now building a 3D-printed SO-101 arm for robot learning.
 <p><a href="https://github.com/Gelminaio/os-blockchain-project"><b>OS blockchain simulation</b></a><br>
 <sub>Team of 3 · Apr–Sep 2026</sub></p>
 <p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
-<p>Nodes, miners and clients run as separate processes that share no memory: FIFOs for data, POSIX signals for control. Simulated proof-of-work, Merkle trees and SHA-256 written from scratch; every node converges on the same chain without a coordinator. Operating Systems course, graded 10/10.</p>
+<p>Nodes, miners and clients run as separate processes that share no memory: FIFOs for data, POSIX signals for control. Proof-of-work, Merkle trees and SHA-256 written from scratch; every node converges on the same chain with no coordinator. Operating Systems course, graded 10/10.</p>
 <p><a href="https://github.com/Gelminaio/os-blockchain-project">Repository</a></p>
 </td>
 </tr>
