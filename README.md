@@ -1,14 +1,9 @@
-<h1 align="center">Pietro Gelmini</h1>
-<p align="center">
-<b>Robotics · Control · Embedded systems</b><br>
-Engineering student at the University of Trento, Italy
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/pietro-gelmini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gelmini.pietro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-</p>
+**Engineering student focused on robotics**\
+Control, state estimation and embedded systems on real hardware · University of Trento, Italy
 
-#### Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/pietro-gelmini) [![Email](https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEuNzUgMmgxMi41Yy45NjYgMCAxLjc1Ljc4NCAxLjc1IDEuNzV2OC41QTEuNzUgMS43NSAwIDAgMSAxNC4yNSAxNEgxLjc1QTEuNzUgMS43NSAwIDAgMSAwIDEyLjI1di04LjVDMCAyLjc4NC43ODQgMiAxLjc1IDJaTTEuNSAxMi4yNTFjMCAuMTM4LjExMi4yNS4yNS4yNWgxMi41YS4yNS4yNSAwIDAgMCAuMjUtLjI1VjUuODA5TDguMzggOS4zOTdhLjc1Ljc1IDAgMCAxLS43NiAwTDEuNSA1LjgwOXY2LjQ0MlptMTMtOC4xODF2LS4zMmEuMjUuMjUgMCAwIDAtLjI1LS4yNUgxLjc1YS4yNS4yNSAwIDAgMC0uMjUuMjV2LjMyTDggNy44OFoiLz48L3N2Zz4%3D&logoColor=white)](mailto:gelmini.pietro@gmail.com)
+
+**Projects**
 
 <table>
 <tr>
@@ -33,7 +28,7 @@ Engineering student at the University of Trento, Italy
 
 **Open source:** small fixes merged in ros2/rclcpp ([#3145](https://github.com/ros2/rclcpp/pull/3145)) and ros2/rosbag2_bag_v2 ([#52](https://github.com/ros2/rosbag2_bag_v2/pull/52)).
 
-#### In progress
+**In progress**
 
 - **SO-101 brick builder**: a 3D-printed SO-101 arm that sorts toy bricks seen by a webcam and assembles them from a
   blueprint, with inverse kinematics and imitation learning (LeRobot).
@@ -42,7 +37,7 @@ Engineering student at the University of Trento, Italy
 - **Lidar SLAM car**: Embedded Software for IoT team project on the drift car's chassis. It maps a room with its lidar,
   localizes itself (SLAM) and drives to a goal or along a path drawn on screen.
 
-#### Education and experience
+**Education and experience**
 
 - **University of Trento** · 2024–2027\
   BSc in Computer, Communications and Electronic Engineering
@@ -51,7 +46,7 @@ Engineering student at the University of Trento, Italy
 - **ITT G. Marconi**, Rovereto · 2019–2024\
   Diploma in Computer Science, Big Data track, 100/100
 
-#### Stack
+**Stack**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![micro-ROS](https://img.shields.io/badge/micro--ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square) ![acados](https://img.shields.io/badge/acados-4B5563?style=flat-square) ![CasADi](https://img.shields.io/badge/CasADi-4B5563?style=flat-square)\
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
