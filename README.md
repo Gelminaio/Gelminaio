@@ -1,28 +1,20 @@
 # Pietro Gelmini
 
-### Computer, Communications and Electronic Engineering Student @ UniTN
-Currently focusing on **ROS 2** for autonomous drifting and exploring efficient software architectures.
+Robotics student — BSc Computer, Communications and Electronic Engineering, University of Trento (2027).
+Interested in control, state estimation and robot learning.
 
----
+### Featured · [drift-mpc-ackermann](https://github.com/Gelminaio/drift-mpc-ackermann)
 
-### 🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+A 1:10 car finds a parking gap with its lidar and slides into it sideways.
 
----
+Nonlinear MPC (acados) at 50 Hz on a Raspberry Pi 4 · system identification · EKF · ROS 2 Jazzy · ESP32 + micro-ROS · Gazebo
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats-beta-three-92.vercel.app/api?username=Gelminaio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pietro's Stats" />
-  <img src="https://github-readme-stats-beta-three-92.vercel.app/api/top-langs/?username=Gelminaio&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/Gelminaio/drift-mpc-ackermann"><img src="https://raw.githubusercontent.com/Gelminaio/drift-mpc-ackermann/main/media/drift_parking_47cm.gif" alt="The car slides sideways into a 47 cm gap between two boxes, at real speed" width="600"/></a>
 
----
+### Now
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-gelmini)
+Building an SO-101 arm that sorts and assembles toy bricks: vision, inverse kinematics, imitation learning with LeRobot.
+
+### Contact
+
+gelmini.pietro@gmail.com · [LinkedIn](https://www.linkedin.com/in/pietro-gelmini)
