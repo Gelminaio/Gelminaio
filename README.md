@@ -14,17 +14,19 @@ Control, state estimation and embedded systems on real hardware · University of
 <td width="50%" valign="top">
 <a href="https://github.com/Gelminaio/drift-mpc-ackermann"><img src="assets/drift-parking.jpg" width="100%" alt="Top view: the 1:10 car parked sideways between two boxes 47 cm apart, with its measured path"></a>
 <p><a href="https://github.com/Gelminaio/drift-mpc-ackermann"><b>Autonomous drift parking</b></a><br>
-<sub>1:10 car · Apr–Oct 2026</sub></p>
-<p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS 2"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white" alt="ESP32"></p>
-<p>The car finds a parking gap with its lidar and slides into it sideways: 47 cm for a 26 cm car, ten clean takes. Nonlinear MPC (acados) at 50 Hz on a Raspberry Pi 4, tire model identified from video, IMU and encoders, ESP32 + micro-ROS, same stack in Gazebo, 52 unit tests in CI.</p>
+<sub>1:10 car · Feb–Oct 2026</sub></p>
+<p><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS 2"> <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo"><br>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white" alt="ESP32"></p>
+<p>The car finds a parking gap with its lidar and slides into it sideways: 47&nbsp;cm for a 26&nbsp;cm car. Nonlinear MPC (acados) at 50&nbsp;Hz on a Raspberry Pi 4, vehicle model identified from IMU, encoders and overhead video (OpenCV marker tracking), EKF&nbsp;+&nbsp;AMCL localization on a lidar map, ESP32&nbsp;+&nbsp;micro-ROS, same software in Gazebo.</p>
 <p><a href="https://github.com/Gelminaio/drift-mpc-ackermann/releases/tag/phase-12">Video</a> · <a href="https://github.com/Gelminaio/drift-mpc-ackermann/blob/main/report/report.pdf">Technical report (PDF)</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Gelminaio/os-blockchain-project"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gelminaio/Gelminaio/main/assets/os-blockchain-dark.png"><img src="https://raw.githubusercontent.com/Gelminaio/Gelminaio/main/assets/os-blockchain-light.png" width="100%" alt="Architecture: clients send transactions to miners, miners send blocks to nodes, nodes gossip and stop the miners with SIGUSR1; the parent process pauses, resumes and stops everyone with signals"></picture></a>
-<p><a href="https://github.com/Gelminaio/os-blockchain-project"><b>OS blockchain simulation</b></a><br>
+<p><a href="https://github.com/Gelminaio/os-blockchain-project"><b>Multi-process blockchain simulation</b></a><br>
 <sub>Team of 3 · Apr–Sep 2026</sub></p>
-<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
-<p>Nodes, miners and clients run as separate processes that share no memory: FIFOs for data, POSIX signals for control. Proof-of-work, Merkle trees and SHA-256 written from scratch; nodes reach consensus without a coordinator. Operating Systems course, graded 10/10.</p>
+<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux"><br>
+<img src="https://img.shields.io/badge/IPC-4B5563?style=flat-square" alt="IPC"> <img src="https://img.shields.io/badge/POSIX%20signals-4B5563?style=flat-square" alt="POSIX signals"></p>
+<p>Nodes, miners and clients run as separate processes that share no memory: FIFOs for data, POSIX signals for control. Proof-of-work, Merkle trees and SHA-256 written from scratch; nodes reach consensus without a coordinator, and a Bash tool verifies the saved chain. Operating Systems course, graded 10/10.</p>
 <p><a href="https://github.com/Gelminaio/os-blockchain-project">Repository</a></p>
 </td>
 </tr>
@@ -45,8 +47,8 @@ Control, state estimation and embedded systems on real hardware · University of
 
 - **University of Trento** · 2024–2027\
   BSc in Computer, Communications and Electronic Engineering
-- **Metalsistem S.p.A.**, Rovereto · 2023\
-  3D software developer intern: interactive 3D interface for industrial environments (Babylon.js)
+- **Metalsistem S.p.A.**, Rovereto · Jun 2023\
+  3D software developer intern: interactive 3D interface for industrial environments (Babylon.js, JavaScript)
 - **ITT G. Marconi**, Rovereto · 2019–2024\
   Diploma in Computer Science, Big Data track, 100/100
 
